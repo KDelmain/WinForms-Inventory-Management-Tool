@@ -1,0 +1,42 @@
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csprojAssemblyReference.cache
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Main.resources
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModPart.resources
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Properties.Resources.resources
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.GenerateResource.cache
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.CoreCompileInputs.cache
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe.config
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.pdb
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.exe
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.pdb
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddPart.resources
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddProduct.resources
+C:\Users\kmdel\Desktop\C968 PA Stuff\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModProduct.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe.config
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.pdb
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csprojAssemblyReference.cache
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddPart.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddProduct.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Main.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModPart.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModProduct.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Properties.Resources.resources
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.GenerateResource.cache
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.CoreCompileInputs.cache
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.exe
+C:\School Stuff\C968 - Soft I\KaitlynDelmain-C968\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.pdb
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe.config
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.exe
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\bin\Debug\KaitlynDelmain-C968.pdb
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csprojAssemblyReference.cache
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddPart.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.AddProduct.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Main.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModPart.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.ModProduct.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain_C968.Properties.Resources.resources
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.GenerateResource.cache
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.csproj.CoreCompileInputs.cache
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.exe
+C:\Users\kmdel\Desktop\Schoolwork Portfolio\WinForms\Inventory Program\Program Files\KaitlynDelmain-C968\obj\Debug\KaitlynDelmain-C968.pdb
